@@ -52,7 +52,7 @@ function setup() {
 
 // Very simple, sets the background color and calls your state machine function
 function draw() {
-  background(186, 219, 209);
+  background(212, 237, 255);
 
   // will call your state machine function
   drawFunction();
